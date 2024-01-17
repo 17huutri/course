@@ -1,0 +1,1 @@
+export const MAX_FILTER_PRICE = 9999;
